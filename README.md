@@ -28,7 +28,7 @@ As a resource provider, you can run a **ECP**(Edge Computing Provider) and **FCP
  		- [Install the Network Plugin](#Install-the-Network-Plugin)
 		- [Install the NVIDIA Plugin](#Install-the-NVIDIA-Plugin)
 		- [Install the Ingress-nginx Controller](#Install-the-Ingress-nginx-Controller)
- 	- [Install and config the Nginx](#Install-the-Ingress-nginx-Controller)
+ 	- [Install and config the Nginx](#Install-and-config-the-nginx)
  	- [Install the Hardware resource-exporter](#Install-the-Hardware-resource-exporter)
  	- [Install the Redis service](#Install-Redis-service)
  	- [Build and config the Computing Provider](#Build-and-config-the-Computing-Provider)
